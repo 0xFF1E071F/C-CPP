@@ -1,0 +1,18 @@
+[Version]
+Version=3000
+[Project]
+Assembler=masm
+Path=D:\CR32\C-CPP\»ã±àÁ·Ï°\Õ»Òç³ö\Asm_use_stack_overflow\Using_stack_overflow
+Group=2,-1,0,1,Using_stack_overflow,-2,-1,1,Assembly,-3,-1,1,Include,-4,-1,1,Misc,-5,-1,1,Resource
+F1=-2,2,1,22,22,600,400,36,Using_stack_overflow.asm
+Open=0,1
+Api=
+C1=0
+B1=
+M1=
+[Make]
+Make=0
+0=Console Release,'/v "$R"',"$R.res",'/c /coff /Cp "$C"',"$C.obj",'/SUBSYSTEM:CONSOLE /RELEASE /VERSION:4.0 /OUT:$O $C $M $R',"$C.exe",'',
+Delete=0
+IncBuild=0
+Run=0,'',''
