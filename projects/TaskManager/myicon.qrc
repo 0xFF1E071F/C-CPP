@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/myimages">
+        <file>images/findwnd.png</file>
+        <file>images/btnclick.png</file>
+        <file>images/mouse.png</file>
+        <file>images/dog.png</file>
+    </qresource>
+</RCC>

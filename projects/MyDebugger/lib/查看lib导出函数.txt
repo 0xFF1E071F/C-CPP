@@ -1,0 +1,1 @@
+dumpbin   /LINKERMEMBER   .\MyDisAsm.lib   >   1.txt
